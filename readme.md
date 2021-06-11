@@ -1,4 +1,4 @@
-<img src="github.gif" alt="Sumit Singh - Web Developer">
+<img src="life is like GitHub.png" alt="Sumit Singh - Web Developer">
 
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
