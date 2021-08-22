@@ -8,16 +8,20 @@
 [![Website Badge](https://img.shields.io/badge/-Sumit's_Portfolio-black?style=flat-square&logo=Website&logoColor=white&link=https://wh0sumit.github.io/)](https://wh0sumit.github.io/)
 
 <br>
-<p>A second-year BCA student I've never stopped engaging my passion to help others and solve problems.
+<p> I am a third-year Bachelor of Computer Application [B.C.A] student at Medicaps University. I’m an independent and self-taught web developer who is passionate about learning new languages, frameworks, & technologies.
 
-I've maintained and developed some projects from scratch, carrying the Development of its back-end and front-end codebases.
+I’m proud that my web development work has helped my clients to grow their businesses and generate more revenue.
 
-Apart from being a web developer 💻, I enjoy most of my time creating Doodles 🎨 and I spend a large amount of my free time exploring the front-end web development world.</p>
+My strongest skill is my creativity. Being able to gather project requirements and translate those into an engaging, effective, and unique website is what has helped me a lot.
+
+I've maintained and developed many projects from scratch, carrying the Development of its back-end and front-end codebases.
+
+Apart from being a web developer, I enjoy most of my time creating Doodles and I spend a large amount of my free time exploring the front-end web development world.</p>
 
 <img align="right" alt="GIF" src="Dino.gif" width = "500" height="180">
 <br>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Javascript**
 
@@ -40,6 +44,7 @@ Apart from being a web developer 💻, I enjoy most of my time creating Doodles 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-f5f5f5?style=flat-square&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=PHP)
+![Laravel](https://img.shields.io/badge/-laravel-pink?style=flat-square&logo=Laravel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 
