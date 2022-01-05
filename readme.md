@@ -1,4 +1,4 @@
-<img src="life is like GitHub.png" alt="Sumit Singh - Web Developer">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Sumit Singh - Web Developer">
 
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -8,45 +8,52 @@
 [![Website Badge](https://img.shields.io/badge/-Sumit's_Portfolio-black?style=flat-square&logo=Website&logoColor=white&link=https://wh0sumit.github.io/)](https://wh0sumit.github.io/)
 
 <br>
-<p> I am a third-year Bachelor of Computer Application [B.C.A] student at Medicaps University. I’m an independent and self-taught web developer who is passionate about learning new languages, frameworks, & technologies.
 
-I’m proud that my web development work has helped my clients to grow their businesses and generate more revenue.
+### About Me
 
-My strongest skill is my creativity. Being able to gather project requirements and translate those into an engaging, effective, and unique website is what has helped me a lot.
 
-I've maintained and developed many projects from scratch, carrying the Development of its back-end and front-end codebases.
+Hey, I am Sumit Singh👋 <br>
+Founder of @The Bug Community & Frontend Developer 💜
 
-Apart from being a web developer, I enjoy most of my time creating Doodles and I spend a large amount of my free time exploring the front-end web development world.</p>
+I would love to contribute to the open-source web development projects (specially frontend).
 
-<img align="right" alt="GIF" src="Dino.gif" width = "500" height="180">
+You can mail me at - sumikumar1608@gmail.com
+
+### Skills
+
+- Languages - C & C++, Javascript, PHP, HTML, CSS/SCSS
+- Libraries & Frameworks - `Bootstrap`, Jquery & `ReactJS`
+- Databases - MYsql & MongoDB
+- Tools and Technologies - NPM, Github-Pages, Netlify, Vercel, Netlify,
+- Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development`, `Components & Design Systems` & `Digital Marketing`
+
+### Projects
+
+- **Syndicate** [(Syndicate)](https://www.github.com/SyndicateHQ/syndicate) Syndicate is a platform where business holders can showcase their business in no time. It's a website builder where any business holder can create their website through Syndicate.
+
+- **Invoicetor** [(Invoicetor)](https://www.github.com/SyndicateHQ/Invoicetor) - Invoicetor is a platform where business holders can create invoice for their businesses. It's a invoice generator, with a simple UI, and a lots of features.
+
+- **ProPack** [(ProPack)](https://www.github.com/wh0sumit/propack) - ProPack is a solution for programmer who cannot find the right resources and projects.ProPack is the single sure source that brings amazing projects with live demo and code.
+
+- **Artistry** [(Artistry)](https://www.github.com/wh0sumit/artistry) - The artistry is dedicated to providing a platform where anyone can showcase their artwork and encouraging innovative and creative opportunities within the community.
+
+### Professional Experience
+
+- [Angel AI](https://www.linkedin.com/company/angel-ai/) - I'm working in a team of web designers, backend developers, and UX designers to meet project goals and create better user experiences. Using my skills in debugging to check code, improve code and enhance the functionality and user experience of the web application. Supervise junior developers, providing training and motivating team members.
+
+
+<!-- <img align="right" alt="GIF" src="Dino.gif" width = "500" height="180">
 <br>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Javascript**
-
-- 📫 Contact me anytime at **sumikumar1608@gmail.com**
+- 💬 Ask me about **Frontend Development & Digital Marketing**
 
 - ⚡ Fun fact **Tea is love <3**
 
 <br>
-<br>
+<br> -->
 
-## ⚡ Technologies
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-white?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-f5f5f5?style=flat-square&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=PHP)
-![Laravel](https://img.shields.io/badge/-laravel-pink?style=flat-square&logo=Laravel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wh0sumit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wh0sumit" /></a></p>
