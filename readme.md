@@ -13,7 +13,7 @@
 
 
 I am Sumit Singh👋 <br>
-Founder of [@The Bug Community](thebugcommunity.in) & Frontend Developer 💜
+Founder of [@The Bug Community](thebugcommunity.in) | Frontend Developer | Open-Source Enthusiast 💜
 
 I would love to contribute to the open-source web development projects (specially frontend).
 
@@ -55,6 +55,11 @@ Check out more about me - [wh0sumit.me](https://wh0sumit.me) 👨🏻‍🚀
 
 <br>
 <br> -->
+
+## Volunteer work
+
+- Hackathons - Participated, Volunteered and Mentored people in various hackathons conducted by MLH.
+- Open Source Programs - Contributed to various projects during many Open Source programs such as Hacktoberfest, LGMSoC, DevIncept and many others.
 
 
 <h3 align="left">Support:</h3>
