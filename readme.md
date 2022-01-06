@@ -41,7 +41,7 @@ Check out more about me - [wh0sumit.me](https://wh0sumit.me) 👨🏻‍🚀
 
 ### Professional Experience
 
-- [Angel AI](https://www.linkedin.com/company/angel-ai/) - I'm working in a team of web designers, backend developers, and UX designers to meet project goals and create better user experiences. Using my skills in debugging to check code, improve code and enhance the functionality and user experience of the web application. Supervise junior developers, providing training and motivating team members.
+- [Angel AI](https://www.linkedin.com/company/angel-ai/) - I was working in a team of web designers, backend developers, and UX designers to meet project goals and create better user experiences. Using my skills in debugging to check code, improve code and enhance the functionality and user experience of the web application. Supervise junior developers, providing training and motivating team members.
 
 
 <!-- <img align="right" alt="GIF" src="Dino.gif" width = "500" height="180">
