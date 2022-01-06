@@ -7,19 +7,24 @@
 [![Instagram Badge](https://img.shields.io/badge/-wh0sumiit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wh0sumiit/)](https://www.instagram.com/wh0sumiit/)
 [![Gmail Badge](https://img.shields.io/badge/-sumikumar1608@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wh0sumit@gmail.com)](mailto:wh0sumit@gmail.com)
 
-<br>
+```javascript
+
+Currently open for full-time/intern job roles in frontend development & UI development
+```
 
 ### About Me
 
 
-I am Sumit Singh👋 <br>
+I am Sumit Singh 👨🏻‍🚀
+<br>
 Founder of [@The Bug Community](thebugcommunity.in) | Frontend Developer | Open-Source Enthusiast 💜
 
 I would love to contribute to the open-source web development projects (specially frontend).
 
 You can mail me at - sumikumar1608@gmail.com 💌
 
-Check out more about me - [wh0sumit.me](https://wh0sumit.me) 👨🏻‍🚀
+Check out more about me - [wh0sumit.me](https://wh0sumit.me) 
+
 
 ### Skills
 
