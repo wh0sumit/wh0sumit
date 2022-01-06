@@ -2,26 +2,28 @@
 
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+[![Twitter Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/wh0sumit/)](https://www.twitter.com/wh0sumit/)
 [![Linkedin Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wh0sumit/)](https://www.linkedin.com/in/wh0sumit/)
 [![Instagram Badge](https://img.shields.io/badge/-wh0sumiit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wh0sumiit/)](https://www.instagram.com/wh0sumiit/)
 [![Gmail Badge](https://img.shields.io/badge/-sumikumar1608@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wh0sumit@gmail.com)](mailto:wh0sumit@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Sumit's_Portfolio-black?style=flat-square&logo=Website&logoColor=white&link=https://wh0sumit.github.io/)](https://wh0sumit.github.io/)
 
 <br>
 
 ### About Me
 
 
-Hey, I am Sumit Singh👋 <br>
-Founder of @The Bug Community & Frontend Developer 💜
+I am Sumit Singh👋 <br>
+Founder of [@The Bug Community](thebugcommunity.in) & Frontend Developer 💜
 
 I would love to contribute to the open-source web development projects (specially frontend).
 
-You can mail me at - sumikumar1608@gmail.com
+You can mail me at - sumikumar1608@gmail.com 💌
+
+Check out more about me - [wh0sumit.me](https://wh0sumit.me) 👨🏻‍🚀
 
 ### Skills
 
-- Languages - C & C++, Javascript, PHP, HTML, CSS/SCSS
+- Languages - C & C++, `Javascript`, PHP, HTML, CSS & `SCSS`
 - Libraries & Frameworks - `Bootstrap`, Jquery & `ReactJS`
 - Databases - MYsql & MongoDB
 - Tools and Technologies - NPM, Github-Pages, Netlify, Vercel, Netlify,
