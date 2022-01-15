@@ -10,7 +10,10 @@
 ```javascript
 
 Currently open for full-time/intern job roles in frontend development & UI development
+
 ```
+
+
 
 ### About Me
 
@@ -24,6 +27,8 @@ I would love to contribute to the open-source web development projects (speciall
 You can mail me at - sumikumar1608@gmail.com 💌
 
 Check out more about me - [wh0sumit.me](https://wh0sumit.me) 
+
+<a href="https://wh0sumit.notion.site/wh0sumit/Sumit-Singh-0a69c9570cc34c5488ea5073231a372f" target="_blank">Resume 🔗</a>
 
 
 ### Skills
