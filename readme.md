@@ -20,7 +20,7 @@ Currently open for full-time/intern job roles in frontend development & UI devel
 
 I am Sumit Singh 👨🏻‍🚀
 <br>
-Founder of [@The Bug Community](thebugcommunity.in) | Frontend Developer | Open-Source Enthusiast 💜
+Founder of [@The Bug Community](https://thebugcommunity.in) | Frontend Developer | Open-Source Enthusiast 💜
 
 I would love to contribute to the open-source web development projects (specially frontend).
 
