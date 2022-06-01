@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Sumit Singh - Web Developer">
 
-### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hey there 👋🏻
 
 [![Twitter Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/wh0sumit/)](https://www.twitter.com/wh0sumit/)
 [![Linkedin Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wh0sumit/)](https://www.linkedin.com/in/wh0sumit/)
@@ -41,9 +41,9 @@ Check out more about me - [wh0sumit.me](https://wh0sumit.me)
 
 ### Projects
 
-- **Syndicate** [(Syndicate)](https://www.github.com/SyndicateHQ/syndicate) Syndicate is a platform where business holders can showcase their business in no time. It's a website builder where any business holder can create their website through Syndicate.
+- **Invoicetor** [(Invoicetor)](https://www.github.com/DunoLabs/Invoicetor) - Invoicetor is a platform where business holders can create invoice for their businesses. It's a invoice generator, with a simple UI, and a lots of features.
 
-- **Invoicetor** [(Invoicetor)](https://www.github.com/SyndicateHQ/Invoicetor) - Invoicetor is a platform where business holders can create invoice for their businesses. It's a invoice generator, with a simple UI, and a lots of features.
+- **Syndicate** Syndicate is a platform where business holders can showcase their business in no time. It's a website builder where any business holder can create their website through Syndicate.
 
 - **ProPack** [(ProPack)](https://www.github.com/wh0sumit/propack) - ProPack is a solution for programmer who cannot find the right resources and projects.ProPack is the single sure source that brings amazing projects with live demo and code.
 
@@ -51,7 +51,14 @@ Check out more about me - [wh0sumit.me](https://wh0sumit.me)
 
 ### Professional Experience
 
-- [Angel AI](https://www.linkedin.com/company/angel-ai/) - I was working in a team of web designers, backend developers, and UX designers to meet project goals and create better user experiences. Using my skills in debugging to check code, improve code and enhance the functionality and user experience of the web application. Supervise junior developers, providing training and motivating team members.
+- **UnityLabs.ai** - I developed user-friendly components utilizing react, nextjs, and scss; Unitylabs provides cloud-based solutions for lead
+generation, web scraping, and data analysis. I developed components that directly interface with the backend APIs using tables and charts in dashboard pages.
+
+- **Vector 32** - I’ve worked with a team of developers where I contributed some valuable insights to projects. Using my skills in
+debugging, I checked code, improved code, and enhanced the functionality and user experience of web applications. Developed and desgin a Design system using an atomic design model.
+
+- **AngelAi** - I’m working in a team of web designers, backend developers, and UX designers to meet project goals and create better user experiences. I have worked on multiple projects and managed to meet the needs of the clients
+
 
 
 <!-- <img align="right" alt="GIF" src="Dino.gif" width = "500" height="180">
