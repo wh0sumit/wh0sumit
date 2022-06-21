@@ -1,13 +1,12 @@
+![Github Banner ](https://user-images.githubusercontent.com/76095902/174692584-ac868a40-0a48-4704-8296-0a096d0606ed.png)
 
-![Github Banner](https://user-images.githubusercontent.com/76095902/174691786-e36b70ef-b885-4906-9dfd-eb1263554e74.png)
 
 
-### Hey there 👋🏻
 
 [![Twitter Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/wh0sumit/)](https://www.twitter.com/wh0sumit/)
 [![Linkedin Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wh0sumit/)](https://www.linkedin.com/in/wh0sumit/)
 [![Instagram Badge](https://img.shields.io/badge/-wh0sumiit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wh0sumiit/)](https://www.instagram.com/wh0sumiit/)
-[![Gmail Badge](https://img.shields.io/badge/-sumikumar1608@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wh0sumit@gmail.com)](mailto:wh0sumit@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wh0sumit.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wh0sumit.work@gmail.com)](mailto:wh0sumit.work@gmail.com)
 
 ```javascript
 
