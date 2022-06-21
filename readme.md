@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Sumit Singh - Web Developer">
+
+![Github Banner](https://user-images.githubusercontent.com/76095902/174691786-e36b70ef-b885-4906-9dfd-eb1263554e74.png)
+
 
 ### Hey there 👋🏻
 
@@ -24,7 +26,7 @@ Founder of [@The Bug Community](https://thebugcommunity.in) | Frontend Developer
 
 I would love to contribute to the open-source web development projects (specially frontend).
 
-You can mail me at - sumikumar1608@gmail.com 💌
+You can mail me at - wh0sumit.work@gmail.com 💌
 
 Check out more about me - [wh0sumit.me](https://wh0sumit.me) 
 
