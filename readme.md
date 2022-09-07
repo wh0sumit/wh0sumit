@@ -21,7 +21,7 @@ Currently open for full-time/intern job roles in frontend development & UI devel
 
 I am Sumit Singh 👨🏻‍🚀
 <br>
-Founder of [@The Bug Community](https://thebugcommunity.in) | Frontend Developer | Open-Source Enthusiast 💜
+Founder of [@Dunolabs](https://dubolabs.com) | Frontend Developer | Open-Source Enthusiast 💜
 
 I would love to contribute to the open-source web development projects (specially frontend).
 
@@ -42,7 +42,7 @@ Check out more about me - [wh0sumit.me](https://wh0sumit.me)
 
 ### Projects
 
-- **Invoicetor** [(Invoicetor)](https://www.github.com/DunoLabs/Invoicetor) - Invoicetor is a platform where business holders can create invoice for their businesses. It's a invoice generator, with a simple UI, and a lots of features.
+- **Invoicetor** [(Invoicetor)](https://www.github.com/DunoLabs/Invoicetor) - Invoicetor is a platform where people can create invoice for their businesses. It's a invoice generator, with a simple UI, and a lots of features.
 
 - **Syndicate** Syndicate is a platform where business holders can showcase their business in no time. It's a website builder where any business holder can create their website through Syndicate.
 
@@ -81,7 +81,7 @@ debugging, I checked code, improved code, and enhanced the functionality and use
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/wh0sumit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wh0sumit" /></a></p>
+<p><a href="https://github.com/sponsors/wh0sumit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wh0sumit" /></a></p>
 
 <br><br>
 
