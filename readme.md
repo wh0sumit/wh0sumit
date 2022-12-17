@@ -60,8 +60,6 @@ I am Sumit Singh, I am a frontend developer and designer based in India, I am pu
 
 <br><br>
 
-[![Sumit's github activity graph](https://activity-graph.herokuapp.com/graph?username=wh0sumit&theme=xcode)](https://git.io/wh0sumit)
-
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wh0sumit&show_icons=true&theme=tokyonight" />
