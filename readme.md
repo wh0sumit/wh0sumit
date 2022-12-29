@@ -1,23 +1,20 @@
-![github banner (3)](https://user-images.githubusercontent.com/76095902/193922534-0fb3e46d-ba25-4fc0-b61b-9de40c549fdd.png)
+### 👋🏻 About Me
 
+
+I am Sumit Singh, I am a frontend engineer 💼 and open source developer based in India. <br/>
+I am passionate about creating beautiful user friendly products & tools, currently building an open-source organizations [@Dunolabs](https://dunolabs.com) 💜
+
+> I would love to contribute to the open-source web development projects (specially frontend).
 
 [![Twitter Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/wh0sumit/)](https://www.twitter.com/wh0sumit/)
 [![Linkedin Badge](https://img.shields.io/badge/-wh0sumit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wh0sumit/)](https://www.linkedin.com/in/wh0sumit/)
-[![Instagram Badge](https://img.shields.io/badge/-wh0sumiit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wh0sumiit/)](https://www.instagram.com/wh0sumiit/)
 [![Gmail Badge](https://img.shields.io/badge/-wh0sumit.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wh0sumit.work@gmail.com)](mailto:wh0sumit.work@gmail.com)
 
 ```javascript
 
- currently open for full-time/part-time intern job roles in frontend development
+ currently open for full-time/part-time intern job roles in frontend development 🌱
 
 ```
-
-### 👋🏻 About Me
-
-
-I am Sumit Singh, I am a frontend developer and designer based in India, I am pursuing Masters of Computer Application. Currently building an open-source organizations [@Dunolabs](https://dunolabs.com) 💜
-
-> I would love to contribute to the open-source web development projects (specially frontend).
 
 * You can mail me at - wh0sumit.work@gmail.com 💌 <br/>
 * Check out more about me - [wh0sumit.me](https://wh0sumit.vercel.app) 
