@@ -31,7 +31,6 @@ I am passionate about creating beautiful user friendly products & tools, current
 
 #### 💼 Projects
 - [Invoicetor](https://www.github.com/DunoLabs/Invoicetor) - Platform where people can create invoice for their businesses in no time.
-- **Syndicate** - Platform where business holders can showcase their business in no time.
 - [ProPack](https://www.github.com/wh0sumit/propack) - ProPack is a solution for programmer who cannot find the right resources and projects.
 - [Artistry](https://www.github.com/wh0sumit/artistry) - Platform where anyone can showcase their artwork and encouraging innovative and creative opportunities within the community.
 
