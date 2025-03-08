@@ -1,8 +1,8 @@
 I'm a frontend engineer passionate about building scalable and performant web applications with React and TypeScript. My focus is on frontend architecture, UI/UX, and developer experience, ensuring clean, maintainable, and efficient code.
 
-Currently, I'm working as a frontend engineer at [Rightfit](https://rightfit.work), where I built the MVP in 12 hours and scaled the platform from 300 to 800+ users in a month. Rightfit is redefining hiring by matching top talent with great companies based on proof of work.
+Currently, I'm working as a frontend engineer at [Rightfit](https://rightfit.so), where I built the MVP in 12 hours and scaled the platform from 300 to 800+ users in a month. Rightfit is redefining hiring by matching top talent with great companies based on proof of work.
 
-Previously, I worked at **Merlin AI**, where I built **Vault**, a tool that lets users save anything from the internet and interact with it using AI. Worked extensively with knowledge bases and retrieval-augmented generation (RAG). 
+Previously, I worked at **Merlin AI** [Merlin](https://getmerlin.com), where I built **Vault**, a part of merlin ecosystem that lets users save anything from the internet and interact with it using AI. Worked extensively with knowledge bases and retrieval-augmented generation (RAG). 
 
 Before that, I was the **solo web engineer** at [Devdham](https://devdham.com), where I built the entire web platform from scratch, now handling over 2 lakh monthly users.
 
