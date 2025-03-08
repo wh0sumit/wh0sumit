@@ -2,9 +2,9 @@ i'm a frontend engineer passionate about building scalable and performant web ap
 
 currently, i'm working as a frontend engineer at [rightfit](https://rightfit.so), where i built the mvp in 12 hours and scaled the platform from 300 to 800+ users in a month. rightfit is redefining hiring by matching top talent with great companies based on proof of work.
 
-previously, i worked at **merlin ai** [merlin](https://getmerlin.com), where i built **vault**, a part of the merlin ecosystem that lets users save anything from the internet and interact with it using ai. i worked extensively with knowledge bases and retrieval-augmented generation (rag).
+previously, i worked at **merlin ai** [merlin](https://getmerlin.com), where i built **vault**, a part of the merlin ecosystem that lets users save anything from the internet and interact with it using ai. i worked with knowledge bases and retrieval-augmented generation (rag).
 
-before that, i was the **solo web engineer** at [devdham](https://devdham.com), where i built the entire web platform from scratch, now handling over 2 lakh monthly users.
+before that, i was the **solo web engineer** at [devdham](https://devdham.com), where i built the entire web platform from scratch.
 
 i work primarily with react, next.js, typescript, tailwindcss, shadcn/ui, and supabase. i also use tools like storybook, figma, and react flow to build design systems and interactive interfaces.
 
