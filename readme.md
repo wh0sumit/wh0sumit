@@ -1,11 +1,11 @@
-I'm a frontend engineer passionate about building scalable and performant web applications with React and TypeScript. My focus is on frontend architecture, UI/UX, and developer experience, ensuring clean, maintainable, and efficient code.
+i'm a frontend engineer passionate about building scalable and performant web applications with react and typescript. my focus is on frontend architecture, ui/ux, and developer experience, ensuring clean, maintainable, and efficient code.
 
-Currently, I'm working as a frontend engineer at [Rightfit](https://rightfit.so), where I built the MVP in 12 hours and scaled the platform from 300 to 800+ users in a month. Rightfit is redefining hiring by matching top talent with great companies based on proof of work.
+currently, i'm working as a frontend engineer at [rightfit](https://rightfit.so), where i built the mvp in 12 hours and scaled the platform from 300 to 800+ users in a month. rightfit is redefining hiring by matching top talent with great companies based on proof of work.
 
-Previously, I worked at **Merlin AI** [Merlin](https://getmerlin.com), where I built **Vault**, a part of merlin ecosystem that lets users save anything from the internet and interact with it using AI. Worked extensively with knowledge bases and retrieval-augmented generation (RAG). 
+previously, i worked at **merlin ai** [merlin](https://getmerlin.com), where i built **vault**, a part of the merlin ecosystem that lets users save anything from the internet and interact with it using ai. i worked extensively with knowledge bases and retrieval-augmented generation (rag).
 
-Before that, I was the **solo web engineer** at [Devdham](https://devdham.com), where I built the entire web platform from scratch, now handling over 2 lakh monthly users.
+before that, i was the **solo web engineer** at [devdham](https://devdham.com), where i built the entire web platform from scratch, now handling over 2 lakh monthly users.
 
-I work primarily with React, Next.js, TypeScript, TailwindCSS, ShadCN/UI, and Supabase. I also use tools like Storybook, Figma, and React Flow to build design systems and interactive interfaces.
+i work primarily with react, next.js, typescript, tailwindcss, shadcn/ui, and supabase. i also use tools like storybook, figma, and react flow to build design systems and interactive interfaces.
 
-Interested in frontend performance, AI-powered workflows, and building tools that improve developer experience.
+interested in frontend performance, ai-powered workflows, and building tools that improve developer experience.
