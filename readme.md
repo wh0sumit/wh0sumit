@@ -1,1 +1,1 @@
- [rightfit.so](https://righfit.so) 🏴
+ [rightfit.so](https://rightfit.so) 🏴
